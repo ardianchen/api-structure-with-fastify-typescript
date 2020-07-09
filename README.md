@@ -1,4 +1,4 @@
-# Before run this application
+# Before run this api
 
 ### Copy-paste the .env file
 
